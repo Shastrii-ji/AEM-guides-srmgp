@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/srmgp" mode="merge"/>
+    <filter root="/content/srmgp" mode="merge"/>
+    <filter root="/content/dam/srmgp" mode="merge"/>
+    <filter root="/content/experience-fragments/srmgp" mode="merge"/>
+</workspaceFilter>
